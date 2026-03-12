@@ -1,8 +1,5 @@
-# requirements.txt - Install via `pip install -r requirements.txt`
+# requirements.txt - ULTRA FAST DEPLOY (No Prophet, no scikit-learn)
 streamlit==1.36.0
 pandas==2.2.2
 numpy==1.26.4
 plotly==5.22.0
-prophet==1.1.5
-scikit-learn==1.5.1
-
